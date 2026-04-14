@@ -1,0 +1,6 @@
+{
+  "name": "LogicSheet Replicator",
+  "description": "A web application that replicates complex logic from code into a spreadsheet-like interface with Excel-compatible capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
